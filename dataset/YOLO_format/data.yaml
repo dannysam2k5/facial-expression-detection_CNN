@@ -1,8 +1,8 @@
-data: "/kaggle/input/affectnet-yolo-format/YOLO_format"
+data: "D:/Projects/GitHub/dannysam2k5/facial-expression-detection_CNN/dataset/YOLO_format"
 
-train: "/kaggle/input/affectnet-yolo-format/YOLO_format/train/images"
-val: "/kaggle/input/affectnet-yolo-format/YOLO_format/valid/images"
-test: "/kaggle/input/affectnet-yolo-format/YOLO_format/test/images"
+train: "D:/Projects/GitHub/dannysam2k5/facial-expression-detection_CNN/dataset/YOLO_format/train/images"
+val: "D:/Projects/GitHub/dannysam2k5/facial-expression-detection_CNN/dataset/YOLO_format/valid/images"
+test: "D:/Projects/GitHub/dannysam2k5/facial-expression-detection_CNN/dataset/YOLO_format/test/images"
 
 nc: 8
 
